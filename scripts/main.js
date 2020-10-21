@@ -1,5 +1,6 @@
 (function (window) {
     'use strict';
+    
     var FORM_SELECTOR = '[data-coffee-order="form"]';
     var CHECKLIST_SELECTOR = '[data-coffee-order="checklist"]'; // CHOOSE ONLY ONE...
     var SERVER_URL = 'https://co.audstanley.com/coffeeorders';    // if running on the shared server

@@ -1,0 +1,22 @@
+{
+  "name": "cpsc349-webfrontendhw5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollinC3/CPSC349-WebFrontEndHW5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollinC3/CPSC349-WebFrontEndHW5/issues"
+  },
+  "homepage": "https://github.com/CollinC3/CPSC349-WebFrontEndHW5#readme",
+  "dependencies": {
+    "firebase": "^7.24.0"
+  }
+}
